@@ -16,5 +16,6 @@
   <a href="https://www.github.com/" target="_blank">
       <img alt="Github" src="https://img.icons8.com/nolan/40/github.png"/></a>
     <a href="" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" height="36" /></a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NisanurKorkmaz&show_icons=true&locale=en&layout=compact" alt="NosanurKorkmaz" width="350" height="290"/>
