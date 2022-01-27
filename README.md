@@ -25,4 +25,4 @@
 <a href="mailto:nisanurkmkz29@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24686636/136243615-faaeb96b-136b-48ae-a508-1905e9cea93f.png"/></a>
 <a href="https://www.linkedin.com/in/nisanurkorkmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehtapugur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nisanur29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NisanurKorkmaz&show_icons=true&locale=en&layout=compact" alt="NosanurKorkmaz" width="350" height="290"/>
+
