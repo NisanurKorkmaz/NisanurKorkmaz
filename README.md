@@ -2,7 +2,7 @@
 # Hi there  👋 , I'm Nisanur 
 ---
 
-- 🔭 I’m currently working on multiple projects
+- 🔭 I’m currently working on multiple projects.
 - 🌱 I’m currently learning Swift. 
 - 📫 How to reach me: nisanurkmkz29@gmail.com
 
