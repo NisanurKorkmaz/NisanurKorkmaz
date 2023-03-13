@@ -22,6 +22,8 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
+<h3 align="letf"> Softwares and Tools: </h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:nisanurkmkz29@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24686636/136243615-faaeb96b-136b-48ae-a508-1905e9cea93f.png"/></a>
