@@ -16,16 +16,15 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height="37" /></a>
-  <a href="https://www.github.com/" target="_blank">
-      <img alt="Github" src="https://img.icons8.com/nolan/40/github.png"/></a>
-  <a href="" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" height="36" /></a>
+
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 <h3 align="letf"> Softwares and Tools: </h3>
 <p align="left" >
        <a href="" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" height="36" /></a>
-
+     <a href="https://www.github.com/" target="_blank">
+      <img alt="Github" src="https://img.icons8.com/nolan/40/github.png"/></a>
 </p>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
