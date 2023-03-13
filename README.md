@@ -25,6 +25,7 @@
      <a href="https://www.github.com/" target="_blank">
       <img alt="Github" src="https://img.icons8.com/nolan/40/github.png"/></a>
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height="37" /></a>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
