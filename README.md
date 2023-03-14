@@ -21,6 +21,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 <h3 align="letf"> Softwares and Tools: </h3>
 <p align="left" >
+     <img src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png" width="40" height="40">
        <a href="" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" height="36" /></a>
      <a href="https://www.github.com/" target="_blank">
       <img alt="Github" src="https://img.icons8.com/nolan/40/github.png"/></a>
