@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Mobile & Web Development
-- 🌱 I’m currently learning Swift. 
+- 🌱 I’m currently learning ReactJS. 
 - 📫 How to reach me: nisanurkmkz29@gmail.com
 
 <h3 align="left">Languages :</h3>
